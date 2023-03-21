@@ -1,0 +1,811 @@
+[2023-02-08 19:19:56,732] root INFO dispensing for bacteria 0
+[2023-02-08 19:19:56,732] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+[2023-02-08 19:20:13,573] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:20:27,227] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+[2023-02-08 19:20:32,897] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A1; lagoons, B1; lagoons, C1; lagoons, D1; lagoons, E1; lagoons, F1; lagoons, G1; lagoons, H1] with extra options {'liquidHeight': 10}
+[2023-02-08 19:20:44,948] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A7; rp_l_0, B7; rp_l_0, C7; rp_l_0, D7; rp_l_0, E7; rp_l_0, F7; rp_l_0, G7; rp_l_0, H7] with extra options {'liquidHeight': 10}
+[2023-02-08 19:20:50,965] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:21:03,466] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:21:07,566] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+[2023-02-08 19:21:22,822] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+[2023-02-08 19:21:29,048] root INFO tip_eject: Eject tips to lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+[2023-02-08 19:21:38,355] root INFO dispensing for bacteria 0
+[2023-02-08 19:21:38,355] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+[2023-02-08 19:21:45,019] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:21:58,673] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+[2023-02-08 19:22:04,352] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A3; lagoons, B3; lagoons, C3; lagoons, D3; lagoons, E3; lagoons, F3; lagoons, G3; lagoons, H3] with extra options {'liquidHeight': 10}
+[2023-02-08 19:22:16,366] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A8; rp_l_0, B8; rp_l_0, C8; rp_l_0, D8; rp_l_0, E8; rp_l_0, F8; rp_l_0, G8; rp_l_0, H8] with extra options {'liquidHeight': 10}
+[2023-02-08 19:22:21,281] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:22:33,846] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:22:37,889] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+[2023-02-08 19:22:54,053] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+[2023-02-08 19:23:00,169] root INFO tip_eject: Eject tips to lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+[2023-02-08 19:23:09,459] root INFO dispensing for bacteria 0
+[2023-02-08 19:23:09,459] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+[2023-02-08 19:23:16,234] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:23:29,887] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+[2023-02-08 19:23:35,557] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A5; lagoons, B5; lagoons, C5; lagoons, D5; lagoons, E5; lagoons, F5; lagoons, G5; lagoons, H5] with extra options {'liquidHeight': 10}
+[2023-02-08 19:23:47,578] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A9; rp_l_0, B9; rp_l_0, C9; rp_l_0, D9; rp_l_0, E9; rp_l_0, F9; rp_l_0, G9; rp_l_0, H9] with extra options {'liquidHeight': 10}
+[2023-02-08 19:23:52,492] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:24:05,052] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:24:09,204] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+[2023-02-08 19:24:24,420] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+[2023-02-08 19:24:30,536] root INFO tip_eject: Eject tips to lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+[2023-02-08 19:24:39,820] root INFO dispensing for bacteria 0
+[2023-02-08 19:24:39,820] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+[2023-02-08 19:24:46,481] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:25:01,121] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+[2023-02-08 19:25:06,800] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A7; lagoons, B7; lagoons, C7; lagoons, D7; lagoons, E7; lagoons, F7; lagoons, G7; lagoons, H7] with extra options {'liquidHeight': 10}
+[2023-02-08 19:25:18,814] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A10; rp_l_0, B10; rp_l_0, C10; rp_l_0, D10; rp_l_0, E10; rp_l_0, F10; rp_l_0, G10; rp_l_0, H10] with extra options {'liquidHeight': 10}
+[2023-02-08 19:25:23,728] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:25:36,389] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:25:40,321] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+[2023-02-08 19:25:55,614] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+[2023-02-08 19:26:01,840] root INFO tip_eject: Eject tips to lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+[2023-02-08 19:26:11,126] root INFO dispensing for bacteria 0
+[2023-02-08 19:26:11,126] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+[2023-02-08 19:26:17,854] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:26:31,556] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+[2023-02-08 19:26:37,161] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A9; lagoons, B9; lagoons, C9; lagoons, D9; lagoons, E9; lagoons, F9; lagoons, G9; lagoons, H9] with extra options {'liquidHeight': 10}
+[2023-02-08 19:26:49,277] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A11; rp_l_0, B11; rp_l_0, C11; rp_l_0, D11; rp_l_0, E11; rp_l_0, F11; rp_l_0, G11; rp_l_0, H11] with extra options {'liquidHeight': 10}
+[2023-02-08 19:26:54,192] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:27:07,863] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:27:11,905] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+[2023-02-08 19:27:27,096] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+[2023-02-08 19:27:33,213] root INFO tip_eject: Eject tips to lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+[2023-02-08 19:27:42,607] root INFO dispensing for bacteria 0
+[2023-02-08 19:27:42,607] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+[2023-02-08 19:27:49,276] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 19:28:02,930] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+[2023-02-08 19:28:08,504] root INFO aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A11; lagoons, B11; lagoons, C11; lagoons, D11; lagoons, E11; lagoons, F11; lagoons, G11; lagoons, H11] with extra options {'liquidHeight': 10}
+[2023-02-08 19:28:20,522] root INFO dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A12; rp_l_0, B12; rp_l_0, C12; rp_l_0, D12; rp_l_0, E12; rp_l_0, F12; rp_l_0, G12; rp_l_0, H12] with extra options {'liquidHeight': 10}
+[2023-02-08 19:28:25,438] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 19:28:38,001] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 19:28:42,043] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+[2023-02-08 19:28:57,211] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+[2023-02-08 19:29:03,327] root INFO tip_eject: Eject tips to lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+[2023-02-08 19:29:13,703] root INFO move_lid_by_seq: Moving plate park_lid to rp_l_0_lid
+[2023-02-08 19:29:37,408] root INFO entering plate read block
+[2023-02-08 19:29:37,408] root INFO not simulating; running read_plate
+[2023-02-08 19:29:37,408] root INFO read_plate: Running plate protocols kinetic_abs_fast, kinetic_high_fast on plate rp_l_0 with id rp_l_0
+[2023-02-08 19:29:37,408] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 19:29:38,522] root INFO move_plate: Moving plate rp_l_0 to reader_tray_00001
+[2023-02-08 19:29:45,478] root INFO Running deck pump action "clean" with args 16
+[2023-02-08 19:29:55,100] root INFO tip_pick_up_96: Pick up tips at inducer_tips
+[2023-02-08 19:29:55,116] root INFO ClarioStar executing ['Run', 'kinetic_abs_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10be6142c']
+[2023-02-08 19:30:10,465] root INFO aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:30:27,150] root INFO dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:30:41,032] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:30:57,962] root INFO aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:31:14,893] root INFO dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:31:29,404] root INFO aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:31:47,705] root INFO dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:32:02,927] root INFO aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:32:20,408] root INFO dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:32:35,062] root INFO aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:32:39,322] root INFO ClarioStar executing ['Run', 'kinetic_high_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10be8959a']
+[2023-02-08 19:32:53,649] root INFO dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:33:09,049] root INFO aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:33:27,946] root INFO dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:33:43,352] root INFO aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:34:01,271] root INFO dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:34:16,786] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 19:34:32,078] root INFO start refill
+[2023-02-08 19:34:32,078] root INFO end refill
+[2023-02-08 19:34:32,078] root INFO tip_eject_96: Eject tips to inducer_tips
+[2023-02-08 19:34:39,185] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_1
+[2023-02-08 19:34:41,758] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 19:34:47,062] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:35:02,869] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:35:19,921] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:35:24,973] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:35:46,493] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:35:52,938] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:36:11,724] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:36:17,003] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:36:37,977] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:36:44,748] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:37:05,048] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:37:11,848] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:37:32,216] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:37:38,880] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 19:37:43,795] root INFO tip_eject_96: Eject tips to lagoon_tips_1
+[2023-02-08 19:37:52,335] root INFO move_plate: Moving plate reader_tray_00001 to rp_l_0
+[2023-02-08 19:37:52,663] pyhamilton.interface WARNING Exception encoded in Hamilton return.
+[2023-02-08 19:37:52,663] pyhamilton.interface WARNING Exception: PositionError()
+[2023-02-08 19:37:52,663] pyhamilton.interface WARNING Raising first exception.
+[2023-02-08 19:38:14,653] root INFO finished running read_plate
+[2023-02-08 19:38:14,653] root INFO finished plate read block
+[2023-02-08 19:38:14,653] root INFO unpacking platedatas
+[2023-02-08 19:38:14,653] root INFO making a range of lagoons
+[2023-02-08 19:38:14,653] root INFO making a range of well numbers
+[2023-02-08 19:38:14,653] root INFO wells range is range(48, 96)
+[2023-02-08 19:38:14,655] root INFO attempting to c.execute
+[2023-02-08 19:38:14,656] root INFO successfully c.execute
+[2023-02-08 19:38:14,656] root INFO attempting to c.execute
+[2023-02-08 19:38:14,656] root INFO successfully c.execute
+[2023-02-08 19:38:14,656] root INFO attempting to c.execute
+[2023-02-08 19:38:14,656] root INFO successfully c.execute
+[2023-02-08 19:38:14,656] root INFO attempting to c.execute
+[2023-02-08 19:38:14,656] root INFO successfully c.execute
+[2023-02-08 19:38:14,656] root INFO attempting to c.execute
+[2023-02-08 19:38:14,656] root INFO successfully c.execute
+[2023-02-08 19:38:14,656] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,657] root INFO successfully c.execute
+[2023-02-08 19:38:14,657] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,658] root INFO attempting to c.execute
+[2023-02-08 19:38:14,658] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,659] root INFO successfully c.execute
+[2023-02-08 19:38:14,659] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,660] root INFO successfully c.execute
+[2023-02-08 19:38:14,660] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,661] root INFO attempting to c.execute
+[2023-02-08 19:38:14,661] root INFO successfully c.execute
+[2023-02-08 19:38:14,662] root INFO attempting to c.execute
+[2023-02-08 19:38:14,662] root INFO successfully c.execute
+[2023-02-08 19:38:14,662] root INFO attempting to c.execute
+[2023-02-08 19:38:14,662] root INFO successfully c.execute
+[2023-02-08 19:38:14,662] root INFO attempting to c.execute
+[2023-02-08 19:38:14,662] root INFO successfully c.execute
+[2023-02-08 19:38:14,662] root INFO attempting to c.execute
+[2023-02-08 19:38:14,662] root INFO successfully c.execute
+[2023-02-08 19:38:14,662] root INFO line 48 while true loop
+[2023-02-08 19:38:14,662] root INFO trying to add to database
+[2023-02-08 19:38:14,839] root INFO successfully committed to database
+[2023-02-08 19:38:14,842] root INFO attempting to c.execute
+[2023-02-08 19:38:14,842] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,843] root INFO attempting to c.execute
+[2023-02-08 19:38:14,843] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,844] root INFO successfully c.execute
+[2023-02-08 19:38:14,844] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,845] root INFO attempting to c.execute
+[2023-02-08 19:38:14,845] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,846] root INFO attempting to c.execute
+[2023-02-08 19:38:14,846] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,847] root INFO successfully c.execute
+[2023-02-08 19:38:14,847] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,848] root INFO successfully c.execute
+[2023-02-08 19:38:14,848] root INFO attempting to c.execute
+[2023-02-08 19:38:14,849] root INFO successfully c.execute
+[2023-02-08 19:38:14,849] root INFO attempting to c.execute
+[2023-02-08 19:38:14,849] root INFO successfully c.execute
+[2023-02-08 19:38:14,849] root INFO line 48 while true loop
+[2023-02-08 19:38:14,849] root INFO trying to add to database
+[2023-02-08 19:38:15,040] root INFO successfully committed to database
+[2023-02-08 19:38:15,040] root INFO writing state data
+[2023-02-08 19:38:15,041] root INFO successfully wrote state data
+[2023-02-08 19:38:15,041] root INFO entering wait block
+[2023-02-08 19:38:15,041] root INFO will try sleeping
+[2023-02-08 19:38:15,041] root INFO will try sleeping
+[2023-02-08 19:58:06,628] root INFO done sleeping
+[2023-02-08 19:58:06,628] root INFO finished read plate passage; returning
+[2023-02-08 19:58:06,628] root INFO wash_empty_refill: empty the washer with extra options {'refillAfterEmpty': 1, 'chamber1WashLiquid': 1, 'chamber2WashLiquid': 0}
+[2023-02-08 19:59:32,951] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_2
+[2023-02-08 19:59:49,011] root INFO aspirate_96: Aspirate volume 450 from holding_site
+[2023-02-08 20:00:08,015] root INFO dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:00:35,752] root INFO aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:00:42,195] root INFO dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:01:09,823] root INFO aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:01:13,755] root INFO aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:01:19,545] root INFO dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:01:27,737] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:01:32,105] root INFO first bacteria 0
+[2023-02-08 20:01:32,105] root INFO asynchronous pumping function
+[2023-02-08 20:01:32,105] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:01:32,105] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 20:01:47,013] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:02:02,421] root INFO Running deck pump action "direct_cmd" with args '{2: 24}'
+[2023-02-08 20:02:03,980] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:02:10,095] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:02:30,632] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:02:33,565] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 20:02:37,061] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:02:55,849] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:03:01,097] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:03:03,811] root INFO Running deck pump action "direct_cmd" with args '{4: 10, 0: 11}'
+[2023-02-08 20:03:18,216] root INFO Running deck pump action "direct_cmd" with args '{4: 29.799999999999994}'
+[2023-02-08 20:03:22,095] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:03:28,849] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:03:49,190] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:03:55,899] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:04:17,423] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:04:24,148] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:04:29,062] root INFO tip_eject_96: Eject tips to lagoon_tips_2
+[2023-02-08 20:04:36,601] root INFO {'A1': {'id': '0', 'vol': '350'}, 'B1': {'id': '0', 'vol': '350'}, 'C1': {'id': '0', 'vol': '350'}, 'D1': {'id': '0', 'vol': '350'}, 'E1': {'id': '0', 'vol': '350'}, 'F1': {'id': '0', 'vol': '350'}, 'G1': {'id': '0', 'vol': '350'}, 'H1': {'id': '0', 'vol': '350'}, 'A2': {'id': 'NA', 'vol': '350'}, 'B2': {'id': 'NA', 'vol': '350'}, 'C2': {'id': 'NA', 'vol': '350'}, 'D2': {'id': 'NA', 'vol': '350'}, 'E2': {'id': 'NA', 'vol': '350'}, 'F2': {'id': 'NA', 'vol': '350'}, 'G2': {'id': 'NA', 'vol': '350'}, 'H2': {'id': 'NA', 'vol': '350'}, 'A3': {'id': '0', 'vol': '350'}, 'B3': {'id': '0', 'vol': '350'}, 'C3': {'id': '0', 'vol': '350'}, 'D3': {'id': '0', 'vol': '350'}, 'E3': {'id': '0', 'vol': '350'}, 'F3': {'id': '0', 'vol': '350'}, 'G3': {'id': '0', 'vol': '350'}, 'H3': {'id': '0', 'vol': '350'}, 'A4': {'id': 'NA', 'vol': '350'}, 'B4': {'id': 'NA', 'vol': '350'}, 'C4': {'id': 'NA', 'vol': '350'}, 'D4': {'id': 'NA', 'vol': '350'}, 'E4': {'id': 'NA', 'vol': '350'}, 'F4': {'id': 'NA', 'vol': '350'}, 'G4': {'id': 'NA', 'vol': '350'}, 'H4': {'id': 'NA', 'vol': '350'}, 'A5': {'id': '0', 'vol': '350'}, 'B5': {'id': '0', 'vol': '350'}, 'C5': {'id': '0', 'vol': '350'}, 'D5': {'id': '0', 'vol': '350'}, 'E5': {'id': '0', 'vol': '350'}, 'F5': {'id': '0', 'vol': '350'}, 'G5': {'id': '0', 'vol': '350'}, 'H5': {'id': '0', 'vol': '350'}, 'A6': {'id': 'NA', 'vol': '350'}, 'B6': {'id': 'NA', 'vol': '350'}, 'C6': {'id': 'NA', 'vol': '350'}, 'D6': {'id': 'NA', 'vol': '350'}, 'E6': {'id': 'NA', 'vol': '350'}, 'F6': {'id': 'NA', 'vol': '350'}, 'G6': {'id': 'NA', 'vol': '350'}, 'H6': {'id': 'NA', 'vol': '350'}, 'A7': {'id': '0', 'vol': '350'}, 'B7': {'id': '0', 'vol': '350'}, 'C7': {'id': '0', 'vol': '350'}, 'D7': {'id': '0', 'vol': '350'}, 'E7': {'id': '0', 'vol': '350'}, 'F7': {'id': '0', 'vol': '350'}, 'G7': {'id': '0', 'vol': '350'}, 'H7': {'id': '0', 'vol': '350'}, 'A8': {'id': 'NA', 'vol': '350'}, 'B8': {'id': 'NA', 'vol': '350'}, 'C8': {'id': 'NA', 'vol': '350'}, 'D8': {'id': 'NA', 'vol': '350'}, 'E8': {'id': 'NA', 'vol': '350'}, 'F8': {'id': 'NA', 'vol': '350'}, 'G8': {'id': 'NA', 'vol': '350'}, 'H8': {'id': 'NA', 'vol': '350'}, 'A9': {'id': '0', 'vol': '350'}, 'B9': {'id': '0', 'vol': '350'}, 'C9': {'id': '0', 'vol': '350'}, 'D9': {'id': '0', 'vol': '350'}, 'E9': {'id': '0', 'vol': '350'}, 'F9': {'id': '0', 'vol': '350'}, 'G9': {'id': '0', 'vol': '350'}, 'H9': {'id': '0', 'vol': '350'}, 'A10': {'id': 'NA', 'vol': '350'}, 'B10': {'id': 'NA', 'vol': '350'}, 'C10': {'id': 'NA', 'vol': '350'}, 'D10': {'id': 'NA', 'vol': '350'}, 'E10': {'id': 'NA', 'vol': '350'}, 'F10': {'id': 'NA', 'vol': '350'}, 'G10': {'id': 'NA', 'vol': '350'}, 'H10': {'id': 'NA', 'vol': '350'}, 'A11': {'id': '0', 'vol': '350'}, 'B11': {'id': '0', 'vol': '350'}, 'C11': {'id': '0', 'vol': '350'}, 'D11': {'id': '0', 'vol': '350'}, 'E11': {'id': '0', 'vol': '350'}, 'F11': {'id': '0', 'vol': '350'}, 'G11': {'id': '0', 'vol': '350'}, 'H11': {'id': '0', 'vol': '350'}, 'A12': {'id': 'NA', 'vol': '350'}, 'B12': {'id': 'NA', 'vol': '350'}, 'C12': {'id': 'NA', 'vol': '350'}, 'D12': {'id': 'NA', 'vol': '350'}, 'E12': {'id': 'NA', 'vol': '350'}, 'F12': {'id': 'NA', 'vol': '350'}, 'G12': {'id': 'NA', 'vol': '350'}, 'H12': {'id': 'NA', 'vol': '350'}}
+[2023-02-08 20:04:36,601] root INFO first bacteria 0
+[2023-02-08 20:04:36,601] root INFO dispensing for bacteria 0
+[2023-02-08 20:04:36,601] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+[2023-02-08 20:04:45,491] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:04:58,598] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+[2023-02-08 20:05:04,168] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:05:16,888] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:05:20,930] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+[2023-02-08 20:05:36,229] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+[2023-02-08 20:05:42,240] root INFO tip_eject: Eject tips to lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+[2023-02-08 20:05:50,978] root INFO dispensing for bacteria 0
+[2023-02-08 20:05:50,978] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+[2023-02-08 20:05:57,640] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:06:10,747] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+[2023-02-08 20:06:17,526] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:06:30,306] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:06:34,346] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+[2023-02-08 20:06:49,642] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+[2023-02-08 20:06:55,761] root INFO tip_eject: Eject tips to lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+[2023-02-08 20:07:04,388] root INFO dispensing for bacteria 0
+[2023-02-08 20:07:04,388] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+[2023-02-08 20:07:11,053] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:07:24,163] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+[2023-02-08 20:07:29,843] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:07:42,621] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:07:46,661] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+[2023-02-08 20:08:01,845] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+[2023-02-08 20:08:08,072] root INFO tip_eject: Eject tips to lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+[2023-02-08 20:08:17,716] root INFO dispensing for bacteria 0
+[2023-02-08 20:08:17,716] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+[2023-02-08 20:08:24,380] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:08:37,378] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+[2023-02-08 20:08:43,063] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:08:55,841] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:08:59,882] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+[2023-02-08 20:09:15,064] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+[2023-02-08 20:09:21,231] root INFO tip_eject: Eject tips to lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+[2023-02-08 20:09:29,913] root INFO dispensing for bacteria 0
+[2023-02-08 20:09:29,913] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+[2023-02-08 20:09:36,613] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:09:49,710] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+[2023-02-08 20:09:55,285] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:10:08,176] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:10:12,127] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+[2023-02-08 20:10:28,409] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+[2023-02-08 20:10:34,527] root INFO tip_eject: Eject tips to lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+[2023-02-08 20:10:43,154] root INFO dispensing for bacteria 0
+[2023-02-08 20:10:43,154] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+[2023-02-08 20:10:49,817] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:11:02,813] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+[2023-02-08 20:11:08,374] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:11:21,289] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:11:25,221] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+[2023-02-08 20:11:40,517] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+[2023-02-08 20:11:46,633] root INFO tip_eject: Eject tips to lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+[2023-02-08 20:11:55,262] root INFO entering plate read block
+[2023-02-08 20:11:55,262] root INFO not simulating; running read_plate
+[2023-02-08 20:11:55,262] root INFO read_plate: Running plate protocols kinetic_abs_fast, kinetic_high_fast on plate rp_l_0 with id rp_l_0
+[2023-02-08 20:11:55,262] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 20:11:56,398] root INFO move_plate: Moving plate rp_l_0 to reader_tray_00001
+[2023-02-08 20:12:03,335] root INFO Running deck pump action "clean" with args 16
+[2023-02-08 20:12:23,749] root INFO tip_pick_up_96: Pick up tips at inducer_tips
+[2023-02-08 20:12:23,764] root INFO ClarioStar executing ['Run', 'kinetic_abs_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c0cf7d4']
+[2023-02-08 20:12:40,064] root INFO aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:12:56,669] root INFO dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:13:10,652] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:13:27,589] root INFO aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:13:43,429] root INFO dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:13:57,961] root INFO aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:14:16,202] root INFO dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:14:31,494] root INFO aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:14:49,924] root INFO dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:15:04,624] root INFO aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:15:07,603] root INFO ClarioStar executing ['Run', 'kinetic_high_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c0f77d3']
+[2023-02-08 20:15:23,128] root INFO dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:15:38,577] root INFO aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:15:56,510] root INFO dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:16:11,909] root INFO aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:16:29,822] root INFO dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:16:45,227] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:17:01,601] root INFO start refill
+[2023-02-08 20:17:01,601] root INFO end refill
+[2023-02-08 20:17:01,601] root INFO tip_eject_96: Eject tips to inducer_tips
+[2023-02-08 20:17:08,679] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_3
+[2023-02-08 20:17:10,021] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 20:17:15,898] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:17:31,736] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:17:48,801] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:17:53,828] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:18:14,263] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:18:20,709] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:18:39,495] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:18:44,736] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:19:06,807] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:19:13,360] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:19:33,790] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:19:40,452] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:20:00,876] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:20:07,529] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:20:12,471] root INFO tip_eject_96: Eject tips to lagoon_tips_3
+[2023-02-08 20:20:20,127] root INFO move_plate: Moving plate reader_tray_00001 to rp_l_0
+[2023-02-08 20:20:20,427] pyhamilton.interface WARNING Exception encoded in Hamilton return.
+[2023-02-08 20:20:20,427] pyhamilton.interface WARNING Exception: PositionError()
+[2023-02-08 20:20:20,427] pyhamilton.interface WARNING Raising first exception.
+[2023-02-08 20:20:43,095] root INFO finished running read_plate
+[2023-02-08 20:20:43,095] root INFO finished plate read block
+[2023-02-08 20:20:43,095] root INFO unpacking platedatas
+[2023-02-08 20:20:43,095] root INFO making a range of lagoons
+[2023-02-08 20:20:43,095] root INFO making a range of well numbers
+[2023-02-08 20:20:43,095] root INFO wells range is range(48, 96)
+[2023-02-08 20:20:43,095] root INFO writing state data
+[2023-02-08 20:20:43,095] root INFO successfully wrote state data
+[2023-02-08 20:20:43,095] root INFO entering wait block
+[2023-02-08 20:20:43,095] root INFO will try sleeping
+[2023-02-08 20:20:43,095] root INFO will try sleeping
+[2023-02-08 20:43:06,639] root INFO done sleeping
+[2023-02-08 20:43:06,639] root INFO finished read plate passage; returning
+[2023-02-08 20:43:06,639] root INFO wash_empty_refill: empty the washer with extra options {'refillAfterEmpty': 1, 'chamber1WashLiquid': 1, 'chamber2WashLiquid': 0}
+[2023-02-08 20:44:33,477] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_0
+[2023-02-08 20:44:48,881] root INFO aspirate_96: Aspirate volume 450 from holding_site
+[2023-02-08 20:45:06,905] root INFO dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:45:34,669] root INFO aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:45:41,113] root INFO dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:46:08,855] root INFO aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:46:12,786] root INFO aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:46:18,472] root INFO dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:46:26,554] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 20:46:30,937] root INFO first bacteria 0
+[2023-02-08 20:46:30,937] root INFO asynchronous pumping function
+[2023-02-08 20:46:30,937] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 20:46:30,937] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:46:46,829] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:47:01,202] root INFO Running deck pump action "direct_cmd" with args '{2: 24}'
+[2023-02-08 20:47:03,759] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:47:08,959] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:47:29,459] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:47:32,342] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 20:47:35,928] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:47:54,697] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:48:00,049] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:48:02,577] root INFO Running deck pump action "direct_cmd" with args '{4: 10, 0: 11}'
+[2023-02-08 20:48:16,943] root INFO Running deck pump action "direct_cmd" with args '{4: 29.799999999999994}'
+[2023-02-08 20:48:20,930] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:48:27,700] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:48:49,072] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:48:55,698] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:49:16,053] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:49:22,824] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 20:49:27,740] root INFO tip_eject_96: Eject tips to lagoon_tips_0
+[2023-02-08 20:49:35,275] root INFO {'A1': {'id': '0', 'vol': '350'}, 'B1': {'id': '0', 'vol': '350'}, 'C1': {'id': '0', 'vol': '350'}, 'D1': {'id': '0', 'vol': '350'}, 'E1': {'id': '0', 'vol': '350'}, 'F1': {'id': '0', 'vol': '350'}, 'G1': {'id': '0', 'vol': '350'}, 'H1': {'id': '0', 'vol': '350'}, 'A2': {'id': 'NA', 'vol': '350'}, 'B2': {'id': 'NA', 'vol': '350'}, 'C2': {'id': 'NA', 'vol': '350'}, 'D2': {'id': 'NA', 'vol': '350'}, 'E2': {'id': 'NA', 'vol': '350'}, 'F2': {'id': 'NA', 'vol': '350'}, 'G2': {'id': 'NA', 'vol': '350'}, 'H2': {'id': 'NA', 'vol': '350'}, 'A3': {'id': '0', 'vol': '350'}, 'B3': {'id': '0', 'vol': '350'}, 'C3': {'id': '0', 'vol': '350'}, 'D3': {'id': '0', 'vol': '350'}, 'E3': {'id': '0', 'vol': '350'}, 'F3': {'id': '0', 'vol': '350'}, 'G3': {'id': '0', 'vol': '350'}, 'H3': {'id': '0', 'vol': '350'}, 'A4': {'id': 'NA', 'vol': '350'}, 'B4': {'id': 'NA', 'vol': '350'}, 'C4': {'id': 'NA', 'vol': '350'}, 'D4': {'id': 'NA', 'vol': '350'}, 'E4': {'id': 'NA', 'vol': '350'}, 'F4': {'id': 'NA', 'vol': '350'}, 'G4': {'id': 'NA', 'vol': '350'}, 'H4': {'id': 'NA', 'vol': '350'}, 'A5': {'id': '0', 'vol': '350'}, 'B5': {'id': '0', 'vol': '350'}, 'C5': {'id': '0', 'vol': '350'}, 'D5': {'id': '0', 'vol': '350'}, 'E5': {'id': '0', 'vol': '350'}, 'F5': {'id': '0', 'vol': '350'}, 'G5': {'id': '0', 'vol': '350'}, 'H5': {'id': '0', 'vol': '350'}, 'A6': {'id': 'NA', 'vol': '350'}, 'B6': {'id': 'NA', 'vol': '350'}, 'C6': {'id': 'NA', 'vol': '350'}, 'D6': {'id': 'NA', 'vol': '350'}, 'E6': {'id': 'NA', 'vol': '350'}, 'F6': {'id': 'NA', 'vol': '350'}, 'G6': {'id': 'NA', 'vol': '350'}, 'H6': {'id': 'NA', 'vol': '350'}, 'A7': {'id': '0', 'vol': '350'}, 'B7': {'id': '0', 'vol': '350'}, 'C7': {'id': '0', 'vol': '350'}, 'D7': {'id': '0', 'vol': '350'}, 'E7': {'id': '0', 'vol': '350'}, 'F7': {'id': '0', 'vol': '350'}, 'G7': {'id': '0', 'vol': '350'}, 'H7': {'id': '0', 'vol': '350'}, 'A8': {'id': 'NA', 'vol': '350'}, 'B8': {'id': 'NA', 'vol': '350'}, 'C8': {'id': 'NA', 'vol': '350'}, 'D8': {'id': 'NA', 'vol': '350'}, 'E8': {'id': 'NA', 'vol': '350'}, 'F8': {'id': 'NA', 'vol': '350'}, 'G8': {'id': 'NA', 'vol': '350'}, 'H8': {'id': 'NA', 'vol': '350'}, 'A9': {'id': '0', 'vol': '350'}, 'B9': {'id': '0', 'vol': '350'}, 'C9': {'id': '0', 'vol': '350'}, 'D9': {'id': '0', 'vol': '350'}, 'E9': {'id': '0', 'vol': '350'}, 'F9': {'id': '0', 'vol': '350'}, 'G9': {'id': '0', 'vol': '350'}, 'H9': {'id': '0', 'vol': '350'}, 'A10': {'id': 'NA', 'vol': '350'}, 'B10': {'id': 'NA', 'vol': '350'}, 'C10': {'id': 'NA', 'vol': '350'}, 'D10': {'id': 'NA', 'vol': '350'}, 'E10': {'id': 'NA', 'vol': '350'}, 'F10': {'id': 'NA', 'vol': '350'}, 'G10': {'id': 'NA', 'vol': '350'}, 'H10': {'id': 'NA', 'vol': '350'}, 'A11': {'id': '0', 'vol': '350'}, 'B11': {'id': '0', 'vol': '350'}, 'C11': {'id': '0', 'vol': '350'}, 'D11': {'id': '0', 'vol': '350'}, 'E11': {'id': '0', 'vol': '350'}, 'F11': {'id': '0', 'vol': '350'}, 'G11': {'id': '0', 'vol': '350'}, 'H11': {'id': '0', 'vol': '350'}, 'A12': {'id': 'NA', 'vol': '350'}, 'B12': {'id': 'NA', 'vol': '350'}, 'C12': {'id': 'NA', 'vol': '350'}, 'D12': {'id': 'NA', 'vol': '350'}, 'E12': {'id': 'NA', 'vol': '350'}, 'F12': {'id': 'NA', 'vol': '350'}, 'G12': {'id': 'NA', 'vol': '350'}, 'H12': {'id': 'NA', 'vol': '350'}}
+[2023-02-08 20:49:35,275] root INFO first bacteria 0
+[2023-02-08 20:49:35,275] root INFO dispensing for bacteria 0
+[2023-02-08 20:49:35,275] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+[2023-02-08 20:49:44,831] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:49:58,598] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+[2023-02-08 20:50:04,172] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:50:17,082] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:50:21,014] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+[2023-02-08 20:50:36,311] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+[2023-02-08 20:50:42,416] root INFO tip_eject: Eject tips to lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+[2023-02-08 20:50:52,900] root INFO dispensing for bacteria 0
+[2023-02-08 20:50:52,900] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+[2023-02-08 20:50:59,452] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:51:13,219] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+[2023-02-08 20:51:18,821] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:51:31,600] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:51:35,632] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+[2023-02-08 20:51:50,927] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+[2023-02-08 20:51:56,939] root INFO tip_eject: Eject tips to lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+[2023-02-08 20:52:06,227] root INFO dispensing for bacteria 0
+[2023-02-08 20:52:06,227] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+[2023-02-08 20:52:12,997] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:52:26,650] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+[2023-02-08 20:52:32,161] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:52:45,078] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:52:49,078] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+[2023-02-08 20:53:05,358] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+[2023-02-08 20:53:11,585] root INFO tip_eject: Eject tips to lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+[2023-02-08 20:53:20,908] root INFO dispensing for bacteria 0
+[2023-02-08 20:53:20,908] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+[2023-02-08 20:53:27,590] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:53:41,242] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+[2023-02-08 20:53:46,811] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:53:59,598] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:54:03,640] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+[2023-02-08 20:54:18,930] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+[2023-02-08 20:54:25,045] root INFO tip_eject: Eject tips to lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+[2023-02-08 20:54:34,441] root INFO dispensing for bacteria 0
+[2023-02-08 20:54:34,441] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+[2023-02-08 20:54:41,214] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:54:54,866] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+[2023-02-08 20:55:00,436] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:55:14,312] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:55:18,244] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+[2023-02-08 20:55:33,542] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+[2023-02-08 20:55:39,657] root INFO tip_eject: Eject tips to lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+[2023-02-08 20:55:49,051] root INFO dispensing for bacteria 0
+[2023-02-08 20:55:49,051] root INFO tip_pick_up: Pick up tips at lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+[2023-02-08 20:55:55,713] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 20:56:09,365] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+[2023-02-08 20:56:15,046] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 20:56:27,829] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 20:56:31,870] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+[2023-02-08 20:56:47,055] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+[2023-02-08 20:56:53,389] root INFO tip_eject: Eject tips to lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+[2023-02-08 20:57:02,673] root INFO entering plate read block
+[2023-02-08 20:57:02,673] root INFO not simulating; running read_plate
+[2023-02-08 20:57:02,673] root INFO read_plate: Running plate protocols kinetic_abs_fast, kinetic_high_fast on plate rp_l_0 with id rp_l_0
+[2023-02-08 20:57:02,673] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 20:57:03,776] root INFO move_plate: Moving plate rp_l_0 to reader_tray_00001
+[2023-02-08 20:57:10,750] root INFO Running deck pump action "clean" with args 16
+[2023-02-08 20:57:31,720] root INFO tip_pick_up_96: Pick up tips at inducer_tips
+[2023-02-08 20:57:31,735] root INFO ClarioStar executing ['Run', 'kinetic_abs_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c3649d7']
+[2023-02-08 20:57:47,052] root INFO aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:58:03,697] root INFO dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:58:17,797] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:58:34,692] root INFO aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:58:50,549] root INFO dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:59:05,075] root INFO aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:59:24,397] root INFO dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:59:39,689] root INFO aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 20:59:57,169] root INFO dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:00:11,695] root INFO aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:00:15,846] root INFO ClarioStar executing ['Run', 'kinetic_high_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c38cae6']
+[2023-02-08 21:00:30,312] root INFO dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:00:45,708] root INFO aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:01:03,641] root INFO dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:01:19,051] root INFO aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:01:37,946] root INFO dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:01:53,346] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:02:08,752] root INFO start refill
+[2023-02-08 21:02:08,752] root INFO end refill
+[2023-02-08 21:02:08,752] root INFO tip_eject_96: Eject tips to inducer_tips
+[2023-02-08 21:02:15,930] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_1
+[2023-02-08 21:02:18,395] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 21:02:23,738] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:02:39,575] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:02:56,637] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:03:01,664] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:03:22,167] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:03:28,711] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:03:48,569] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:03:53,920] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:04:14,803] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:04:21,470] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:04:41,793] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:04:48,566] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:05:08,881] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:05:15,552] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:05:20,466] root INFO tip_eject_96: Eject tips to lagoon_tips_1
+[2023-02-08 21:05:27,997] root INFO move_plate: Moving plate reader_tray_00001 to rp_l_0
+[2023-02-08 21:05:28,324] pyhamilton.interface WARNING Exception encoded in Hamilton return.
+[2023-02-08 21:05:28,324] pyhamilton.interface WARNING Exception: PositionError()
+[2023-02-08 21:05:28,324] pyhamilton.interface WARNING Raising first exception.
+[2023-02-08 21:05:51,376] root INFO finished running read_plate
+[2023-02-08 21:05:51,376] root INFO finished plate read block
+[2023-02-08 21:05:51,376] root INFO unpacking platedatas
+[2023-02-08 21:05:51,376] root INFO making a range of lagoons
+[2023-02-08 21:05:51,376] root INFO making a range of well numbers
+[2023-02-08 21:05:51,376] root INFO wells range is range(48, 96)
+[2023-02-08 21:05:51,376] root INFO writing state data
+[2023-02-08 21:05:51,376] root INFO successfully wrote state data
+[2023-02-08 21:05:51,376] root INFO entering wait block
+[2023-02-08 21:05:51,376] root INFO will try sleeping
+[2023-02-08 21:05:51,376] root INFO will try sleeping
+[2023-02-08 21:28:06,648] root INFO done sleeping
+[2023-02-08 21:28:06,648] root INFO finished read plate passage; returning
+[2023-02-08 21:28:06,648] root INFO wash_empty_refill: empty the washer with extra options {'refillAfterEmpty': 1, 'chamber1WashLiquid': 1, 'chamber2WashLiquid': 0}
+[2023-02-08 21:29:32,486] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_2
+[2023-02-08 21:29:48,540] root INFO aspirate_96: Aspirate volume 450 from holding_site
+[2023-02-08 21:30:07,548] root INFO dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:30:35,350] root INFO aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:30:41,750] root INFO dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:31:09,511] root INFO aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:31:13,462] root INFO aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:31:19,152] root INFO dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:31:27,350] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 21:31:31,719] root INFO first bacteria 0
+[2023-02-08 21:31:31,719] root INFO asynchronous pumping function
+[2023-02-08 21:31:31,719] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:31:31,719] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 21:31:46,597] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:32:02,048] root INFO Running deck pump action "direct_cmd" with args '{2: 24}'
+[2023-02-08 21:32:03,577] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:32:09,687] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:32:30,225] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:32:33,173] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 21:32:36,629] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:32:55,441] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:33:00,793] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:33:03,399] root INFO Running deck pump action "direct_cmd" with args '{4: 10, 0: 11}'
+[2023-02-08 21:33:17,781] root INFO Running deck pump action "direct_cmd" with args '{4: 29.799999999999994}'
+[2023-02-08 21:33:21,751] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:33:28,518] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:33:48,855] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:33:55,539] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:34:16,912] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:34:23,575] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:34:28,489] root INFO tip_eject_96: Eject tips to lagoon_tips_2
+[2023-02-08 21:34:36,026] root INFO {'A1': {'id': '0', 'vol': '350'}, 'B1': {'id': '0', 'vol': '350'}, 'C1': {'id': '0', 'vol': '350'}, 'D1': {'id': '0', 'vol': '350'}, 'E1': {'id': '0', 'vol': '350'}, 'F1': {'id': '0', 'vol': '350'}, 'G1': {'id': '0', 'vol': '350'}, 'H1': {'id': '0', 'vol': '350'}, 'A2': {'id': 'NA', 'vol': '350'}, 'B2': {'id': 'NA', 'vol': '350'}, 'C2': {'id': 'NA', 'vol': '350'}, 'D2': {'id': 'NA', 'vol': '350'}, 'E2': {'id': 'NA', 'vol': '350'}, 'F2': {'id': 'NA', 'vol': '350'}, 'G2': {'id': 'NA', 'vol': '350'}, 'H2': {'id': 'NA', 'vol': '350'}, 'A3': {'id': '0', 'vol': '350'}, 'B3': {'id': '0', 'vol': '350'}, 'C3': {'id': '0', 'vol': '350'}, 'D3': {'id': '0', 'vol': '350'}, 'E3': {'id': '0', 'vol': '350'}, 'F3': {'id': '0', 'vol': '350'}, 'G3': {'id': '0', 'vol': '350'}, 'H3': {'id': '0', 'vol': '350'}, 'A4': {'id': 'NA', 'vol': '350'}, 'B4': {'id': 'NA', 'vol': '350'}, 'C4': {'id': 'NA', 'vol': '350'}, 'D4': {'id': 'NA', 'vol': '350'}, 'E4': {'id': 'NA', 'vol': '350'}, 'F4': {'id': 'NA', 'vol': '350'}, 'G4': {'id': 'NA', 'vol': '350'}, 'H4': {'id': 'NA', 'vol': '350'}, 'A5': {'id': '0', 'vol': '350'}, 'B5': {'id': '0', 'vol': '350'}, 'C5': {'id': '0', 'vol': '350'}, 'D5': {'id': '0', 'vol': '350'}, 'E5': {'id': '0', 'vol': '350'}, 'F5': {'id': '0', 'vol': '350'}, 'G5': {'id': '0', 'vol': '350'}, 'H5': {'id': '0', 'vol': '350'}, 'A6': {'id': 'NA', 'vol': '350'}, 'B6': {'id': 'NA', 'vol': '350'}, 'C6': {'id': 'NA', 'vol': '350'}, 'D6': {'id': 'NA', 'vol': '350'}, 'E6': {'id': 'NA', 'vol': '350'}, 'F6': {'id': 'NA', 'vol': '350'}, 'G6': {'id': 'NA', 'vol': '350'}, 'H6': {'id': 'NA', 'vol': '350'}, 'A7': {'id': '0', 'vol': '350'}, 'B7': {'id': '0', 'vol': '350'}, 'C7': {'id': '0', 'vol': '350'}, 'D7': {'id': '0', 'vol': '350'}, 'E7': {'id': '0', 'vol': '350'}, 'F7': {'id': '0', 'vol': '350'}, 'G7': {'id': '0', 'vol': '350'}, 'H7': {'id': '0', 'vol': '350'}, 'A8': {'id': 'NA', 'vol': '350'}, 'B8': {'id': 'NA', 'vol': '350'}, 'C8': {'id': 'NA', 'vol': '350'}, 'D8': {'id': 'NA', 'vol': '350'}, 'E8': {'id': 'NA', 'vol': '350'}, 'F8': {'id': 'NA', 'vol': '350'}, 'G8': {'id': 'NA', 'vol': '350'}, 'H8': {'id': 'NA', 'vol': '350'}, 'A9': {'id': '0', 'vol': '350'}, 'B9': {'id': '0', 'vol': '350'}, 'C9': {'id': '0', 'vol': '350'}, 'D9': {'id': '0', 'vol': '350'}, 'E9': {'id': '0', 'vol': '350'}, 'F9': {'id': '0', 'vol': '350'}, 'G9': {'id': '0', 'vol': '350'}, 'H9': {'id': '0', 'vol': '350'}, 'A10': {'id': 'NA', 'vol': '350'}, 'B10': {'id': 'NA', 'vol': '350'}, 'C10': {'id': 'NA', 'vol': '350'}, 'D10': {'id': 'NA', 'vol': '350'}, 'E10': {'id': 'NA', 'vol': '350'}, 'F10': {'id': 'NA', 'vol': '350'}, 'G10': {'id': 'NA', 'vol': '350'}, 'H10': {'id': 'NA', 'vol': '350'}, 'A11': {'id': '0', 'vol': '350'}, 'B11': {'id': '0', 'vol': '350'}, 'C11': {'id': '0', 'vol': '350'}, 'D11': {'id': '0', 'vol': '350'}, 'E11': {'id': '0', 'vol': '350'}, 'F11': {'id': '0', 'vol': '350'}, 'G11': {'id': '0', 'vol': '350'}, 'H11': {'id': '0', 'vol': '350'}, 'A12': {'id': 'NA', 'vol': '350'}, 'B12': {'id': 'NA', 'vol': '350'}, 'C12': {'id': 'NA', 'vol': '350'}, 'D12': {'id': 'NA', 'vol': '350'}, 'E12': {'id': 'NA', 'vol': '350'}, 'F12': {'id': 'NA', 'vol': '350'}, 'G12': {'id': 'NA', 'vol': '350'}, 'H12': {'id': 'NA', 'vol': '350'}}
+[2023-02-08 21:34:36,026] root INFO first bacteria 0
+[2023-02-08 21:34:36,026] root INFO dispensing for bacteria 0
+[2023-02-08 21:34:36,026] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+[2023-02-08 21:34:44,905] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:34:58,013] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+[2023-02-08 21:35:03,585] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:35:16,374] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:35:20,415] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+[2023-02-08 21:35:35,707] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+[2023-02-08 21:35:41,932] root INFO tip_eject: Eject tips to lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+[2023-02-08 21:35:50,509] root INFO dispensing for bacteria 0
+[2023-02-08 21:35:50,510] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+[2023-02-08 21:35:57,310] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:36:10,479] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+[2023-02-08 21:36:17,063] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:36:29,950] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:36:33,881] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+[2023-02-08 21:36:49,091] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+[2023-02-08 21:36:55,207] root INFO tip_eject: Eject tips to lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+[2023-02-08 21:37:03,834] root INFO dispensing for bacteria 0
+[2023-02-08 21:37:03,834] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+[2023-02-08 21:37:10,499] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:37:23,498] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+[2023-02-08 21:37:29,168] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:37:41,951] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:37:45,992] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+[2023-02-08 21:38:01,175] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+[2023-02-08 21:38:07,400] root INFO tip_eject: Eject tips to lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+[2023-02-08 21:38:15,957] root INFO dispensing for bacteria 0
+[2023-02-08 21:38:15,957] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+[2023-02-08 21:38:23,711] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:38:36,716] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+[2023-02-08 21:38:42,286] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:38:55,070] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:38:59,115] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+[2023-02-08 21:39:14,409] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+[2023-02-08 21:39:20,525] root INFO tip_eject: Eject tips to lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+[2023-02-08 21:39:29,155] root INFO dispensing for bacteria 0
+[2023-02-08 21:39:29,155] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+[2023-02-08 21:39:35,819] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:39:48,926] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+[2023-02-08 21:39:54,388] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:40:07,277] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:40:11,209] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+[2023-02-08 21:40:27,482] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+[2023-02-08 21:40:33,818] root INFO tip_eject: Eject tips to lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+[2023-02-08 21:40:42,337] root INFO dispensing for bacteria 0
+[2023-02-08 21:40:42,337] root INFO tip_pick_up: Pick up tips at lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+[2023-02-08 21:40:49,002] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+[2023-02-08 21:41:02,006] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+[2023-02-08 21:41:07,689] root INFO aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+[2023-02-08 21:41:20,482] root INFO dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+[2023-02-08 21:41:24,582] root INFO aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+[2023-02-08 21:41:39,828] root INFO dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+[2023-02-08 21:41:46,054] root INFO tip_eject: Eject tips to lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+[2023-02-08 21:41:54,680] root INFO entering plate read block
+[2023-02-08 21:41:54,680] root INFO not simulating; running read_plate
+[2023-02-08 21:41:54,680] root INFO read_plate: Running plate protocols kinetic_abs_fast, kinetic_high_fast on plate rp_l_0 with id rp_l_0
+[2023-02-08 21:41:54,680] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 21:41:55,845] root INFO move_plate: Moving plate rp_l_0 to reader_tray_00001
+[2023-02-08 21:42:02,754] root INFO Running deck pump action "clean" with args 16
+[2023-02-08 21:42:23,042] root INFO tip_pick_up_96: Pick up tips at inducer_tips
+[2023-02-08 21:42:23,058] root INFO ClarioStar executing ['Run', 'kinetic_abs_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c5f5ad2']
+[2023-02-08 21:42:39,445] root INFO aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:42:56,045] root INFO dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:43:10,029] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:43:26,954] root INFO aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:43:42,799] root INFO dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:43:57,324] root INFO aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:44:15,566] root INFO dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:44:30,860] root INFO aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:44:49,322] root INFO dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:45:03,961] root INFO aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:45:06,914] root INFO ClarioStar executing ['Run', 'kinetic_high_fast', 'C:\\Program Files (x86)\\BMG\\CLARIOstar\\User\\Definit', 'C:\\Users\\Hamilton\\mars_database', 'rp_l_0', '-', '0x10c61dae2']
+[2023-02-08 21:45:22,484] root INFO dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:45:37,885] root INFO aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:45:55,822] root INFO dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:46:11,224] root INFO aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:46:29,153] root INFO dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:46:44,615] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+[2023-02-08 21:47:01,065] root INFO start refill
+[2023-02-08 21:47:01,065] root INFO end refill
+[2023-02-08 21:47:01,065] root INFO tip_eject_96: Eject tips to inducer_tips
+[2023-02-08 21:47:08,119] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_3
+[2023-02-08 21:47:09,527] root INFO ClarioStar executing ['PlateOut']
+[2023-02-08 21:47:15,379] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:47:31,258] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:47:48,208] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:47:53,232] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:48:13,772] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:48:20,227] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:48:39,022] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:48:44,265] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:49:06,324] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:49:12,988] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:49:33,312] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:49:39,973] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:50:00,292] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:50:07,064] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 21:50:11,870] root INFO tip_eject_96: Eject tips to lagoon_tips_3
+[2023-02-08 21:50:19,410] root INFO move_plate: Moving plate reader_tray_00001 to rp_l_0
+[2023-02-08 21:50:19,738] pyhamilton.interface WARNING Exception encoded in Hamilton return.
+[2023-02-08 21:50:19,738] pyhamilton.interface WARNING Exception: PositionError()
+[2023-02-08 21:50:19,738] pyhamilton.interface WARNING Raising first exception.
+[2023-02-08 21:50:42,455] root INFO finished running read_plate
+[2023-02-08 21:50:42,455] root INFO finished plate read block
+[2023-02-08 21:50:42,455] root INFO unpacking platedatas
+[2023-02-08 21:50:42,455] root INFO making a range of lagoons
+[2023-02-08 21:50:42,455] root INFO making a range of well numbers
+[2023-02-08 21:50:42,455] root INFO wells range is range(48, 96)
+[2023-02-08 21:50:42,455] root INFO writing state data
+[2023-02-08 21:50:42,455] root INFO successfully wrote state data
+[2023-02-08 21:50:42,455] root INFO entering wait block
+[2023-02-08 21:50:42,455] root INFO will try sleeping
+[2023-02-08 21:50:42,455] root INFO will try sleeping
+[2023-02-08 22:13:06,652] root INFO done sleeping
+[2023-02-08 22:13:06,652] root INFO finished read plate passage; returning
+[2023-02-08 22:13:06,652] root INFO wash_empty_refill: empty the washer with extra options {'refillAfterEmpty': 1, 'chamber1WashLiquid': 1, 'chamber2WashLiquid': 0}
+[2023-02-08 22:14:35,791] root INFO tip_pick_up_96: Pick up tips at lagoon_tips_0
+[2023-02-08 22:14:51,194] root INFO aspirate_96: Aspirate volume 450 from holding_site
+[2023-02-08 22:15:09,216] root INFO dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:15:37,047] root INFO aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:15:43,560] root INFO dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:16:11,192] root INFO aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:16:15,124] root INFO aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:16:20,803] root INFO dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:16:28,995] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+[2023-02-08 22:16:33,363] root INFO first bacteria 0
+[2023-02-08 22:16:33,363] root INFO asynchronous pumping function
+[2023-02-08 22:16:33,363] root INFO aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:16:33,363] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 22:16:49,288] root INFO aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:17:03,677] root INFO Running deck pump action "direct_cmd" with args '{2: 24}'
+[2023-02-08 22:17:06,254] root INFO dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:17:11,308] root INFO aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:17:31,864] root INFO dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:17:34,813] root INFO Running deck pump action "direct_cmd" with args '{0: 24.0}'
+[2023-02-08 22:17:38,154] root INFO aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:17:56,996] root INFO dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:18:02,347] root INFO aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:18:05,046] root INFO Running deck pump action "direct_cmd" with args '{4: 10, 0: 11}'
+[2023-02-08 22:18:19,430] root INFO Running deck pump action "direct_cmd" with args '{4: 29.799999999999994}'
+[2023-02-08 22:18:23,300] root INFO dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:18:29,964] root INFO aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:18:51,370] root INFO dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:18:57,985] root INFO aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:19:18,412] root INFO dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:19:25,168] root INFO dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+[2023-02-08 22:19:30,087] root INFO tip_eject_96: Eject tips to lagoon_tips_0
+[2023-02-08 22:19:37,520] root INFO {'A1': {'id': '0', 'vol': '350'}, 'B1': {'id': '0', 'vol': '350'}, 'C1': {'id': '0', 'vol': '350'}, 'D1': {'id': '0', 'vol': '350'}, 'E1': {'id': '0', 'vol': '350'}, 'F1': {'id': '0', 'vol': '350'}, 'G1': {'id': '0', 'vol': '350'}, 'H1': {'id': '0', 'vol': '350'}, 'A2': {'id': 'NA', 'vol': '350'}, 'B2': {'id': 'NA', 'vol': '350'}, 'C2': {'id': 'NA', 'vol': '350'}, 'D2': {'id': 'NA', 'vol': '350'}, 'E2': {'id': 'NA', 'vol': '350'}, 'F2': {'id': 'NA', 'vol': '350'}, 'G2': {'id': 'NA', 'vol': '350'}, 'H2': {'id': 'NA', 'vol': '350'}, 'A3': {'id': '0', 'vol': '350'}, 'B3': {'id': '0', 'vol': '350'}, 'C3': {'id': '0', 'vol': '350'}, 'D3': {'id': '0', 'vol': '350'}, 'E3': {'id': '0', 'vol': '350'}, 'F3': {'id': '0', 'vol': '350'}, 'G3': {'id': '0', 'vol': '350'}, 'H3': {'id': '0', 'vol': '350'}, 'A4': {'id': 'NA', 'vol': '350'}, 'B4': {'id': 'NA', 'vol': '350'}, 'C4': {'id': 'NA', 'vol': '350'}, 'D4': {'id': 'NA', 'vol': '350'}, 'E4': {'id': 'NA', 'vol': '350'}, 'F4': {'id': 'NA', 'vol': '350'}, 'G4': {'id': 'NA', 'vol': '350'}, 'H4': {'id': 'NA', 'vol': '350'}, 'A5': {'id': '0', 'vol': '350'}, 'B5': {'id': '0', 'vol': '350'}, 'C5': {'id': '0', 'vol': '350'}, 'D5': {'id': '0', 'vol': '350'}, 'E5': {'id': '0', 'vol': '350'}, 'F5': {'id': '0', 'vol': '350'}, 'G5': {'id': '0', 'vol': '350'}, 'H5': {'id': '0', 'vol': '350'}, 'A6': {'id': 'NA', 'vol': '350'}, 'B6': {'id': 'NA', 'vol': '350'}, 'C6': {'id': 'NA', 'vol': '350'}, 'D6': {'id': 'NA', 'vol': '350'}, 'E6': {'id': 'NA', 'vol': '350'}, 'F6': {'id': 'NA', 'vol': '350'}, 'G6': {'id': 'NA', 'vol': '350'}, 'H6': {'id': 'NA', 'vol': '350'}, 'A7': {'id': '0', 'vol': '350'}, 'B7': {'id': '0', 'vol': '350'}, 'C7': {'id': '0', 'vol': '350'}, 'D7': {'id': '0', 'vol': '350'}, 'E7': {'id': '0', 'vol': '350'}, 'F7': {'id': '0', 'vol': '350'}, 'G7': {'id': '0', 'vol': '350'}, 'H7': {'id': '0', 'vol': '350'}, 'A8': {'id': 'NA', 'vol': '350'}, 'B8': {'id': 'NA', 'vol': '350'}, 'C8': {'id': 'NA', 'vol': '350'}, 'D8': {'id': 'NA', 'vol': '350'}, 'E8': {'id': 'NA', 'vol': '350'}, 'F8': {'id': 'NA', 'vol': '350'}, 'G8': {'id': 'NA', 'vol': '350'}, 'H8': {'id': 'NA', 'vol': '350'}, 'A9': {'id': '0', 'vol': '350'}, 'B9': {'id': '0', 'vol': '350'}, 'C9': {'id': '0', 'vol': '350'}, 'D9': {'id': '0', 'vol': '350'}, 'E9': {'id': '0', 'vol': '350'}, 'F9': {'id': '0', 'vol': '350'}, 'G9': {'id': '0', 'vol': '350'}, 'H9': {'id': '0', 'vol': '350'}, 'A10': {'id': 'NA', 'vol': '350'}, 'B10': {'id': 'NA', 'vol': '350'}, 'C10': {'id': 'NA', 'vol': '350'}, 'D10': {'id': 'NA', 'vol': '350'}, 'E10': {'id': 'NA', 'vol': '350'}, 'F10': {'id': 'NA', 'vol': '350'}, 'G10': {'id': 'NA', 'vol': '350'}, 'H10': {'id': 'NA', 'vol': '350'}, 'A11': {'id': '0', 'vol': '350'}, 'B11': {'id': '0', 'vol': '350'}, 'C11': {'id': '0', 'vol': '350'}, 'D11': {'id': '0', 'vol': '350'}, 'E11': {'id': '0', 'vol': '350'}, 'F11': {'id': '0', 'vol': '350'}, 'G11': {'id': '0', 'vol': '350'}, 'H11': {'id': '0', 'vol': '350'}, 'A12': {'id': 'NA', 'vol': '350'}, 'B12': {'id': 'NA', 'vol': '350'}, 'C12': {'id': 'NA', 'vol': '350'}, 'D12': {'id': 'NA', 'vol': '350'}, 'E12': {'id': 'NA', 'vol': '350'}, 'F12': {'id': 'NA', 'vol': '350'}, 'G12': {'id': 'NA', 'vol': '350'}, 'H12': {'id': 'NA', 'vol': '350'}}
+[2023-02-08 22:19:37,520] root INFO move_lid_by_seq: Moving plate rp_l_1_lid to park_lid

@@ -1,0 +1,275 @@
+   tip_pick_up: Pick up tips at lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A1; lagoons, B1; lagoons, C1; lagoons, D1; lagoons, E1; lagoons, F1; lagoons, G1; lagoons, H1] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A1; rp_l_0, B1; rp_l_0, C1; rp_l_0, D1; rp_l_0, E1; rp_l_0, F1; rp_l_0, G1; rp_l_0, H1] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A7; rp_l_0, B7; rp_l_0, C7; rp_l_0, D7; rp_l_0, E7; rp_l_0, F7; rp_l_0, G7; rp_l_0, H7] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+   tip_eject: Eject tips to lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
+   tip_pick_up: Pick up tips at lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A3; lagoons, B3; lagoons, C3; lagoons, D3; lagoons, E3; lagoons, F3; lagoons, G3; lagoons, H3] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A2; rp_l_0, B2; rp_l_0, C2; rp_l_0, D2; rp_l_0, E2; rp_l_0, F2; rp_l_0, G2; rp_l_0, H2] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A8; rp_l_0, B8; rp_l_0, C8; rp_l_0, D8; rp_l_0, E8; rp_l_0, F8; rp_l_0, G8; rp_l_0, H8] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+   tip_eject: Eject tips to lagoon_tips_1, 17; lagoon_tips_1, 18; lagoon_tips_1, 19; lagoon_tips_1, 20; lagoon_tips_1, 21; lagoon_tips_1, 22; lagoon_tips_1, 23; lagoon_tips_1, 24
+   tip_pick_up: Pick up tips at lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A5; lagoons, B5; lagoons, C5; lagoons, D5; lagoons, E5; lagoons, F5; lagoons, G5; lagoons, H5] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A3; rp_l_0, B3; rp_l_0, C3; rp_l_0, D3; rp_l_0, E3; rp_l_0, F3; rp_l_0, G3; rp_l_0, H3] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A9; rp_l_0, B9; rp_l_0, C9; rp_l_0, D9; rp_l_0, E9; rp_l_0, F9; rp_l_0, G9; rp_l_0, H9] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+   tip_eject: Eject tips to lagoon_tips_1, 33; lagoon_tips_1, 34; lagoon_tips_1, 35; lagoon_tips_1, 36; lagoon_tips_1, 37; lagoon_tips_1, 38; lagoon_tips_1, 39; lagoon_tips_1, 40
+   tip_pick_up: Pick up tips at lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A7; lagoons, B7; lagoons, C7; lagoons, D7; lagoons, E7; lagoons, F7; lagoons, G7; lagoons, H7] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A4; rp_l_0, B4; rp_l_0, C4; rp_l_0, D4; rp_l_0, E4; rp_l_0, F4; rp_l_0, G4; rp_l_0, H4] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A10; rp_l_0, B10; rp_l_0, C10; rp_l_0, D10; rp_l_0, E10; rp_l_0, F10; rp_l_0, G10; rp_l_0, H10] with extra options {'liquidHeight': 10}
+?                                                                                               ^^           ^^           ^^           ^^           ^^           ^^           ^^           ^^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+   tip_eject: Eject tips to lagoon_tips_1, 49; lagoon_tips_1, 50; lagoon_tips_1, 51; lagoon_tips_1, 52; lagoon_tips_1, 53; lagoon_tips_1, 54; lagoon_tips_1, 55; lagoon_tips_1, 56
+   tip_pick_up: Pick up tips at lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A9; lagoons, B9; lagoons, C9; lagoons, D9; lagoons, E9; lagoons, F9; lagoons, G9; lagoons, H9] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A5; rp_l_0, B5; rp_l_0, C5; rp_l_0, D5; rp_l_0, E5; rp_l_0, F5; rp_l_0, G5; rp_l_0, H5] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A11; rp_l_0, B11; rp_l_0, C11; rp_l_0, D11; rp_l_0, E11; rp_l_0, F11; rp_l_0, G11; rp_l_0, H11] with extra options {'liquidHeight': 10}
+?                                                                                               ^^           ^^           ^^           ^^           ^^           ^^           ^^           ^^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+   tip_eject: Eject tips to lagoon_tips_1, 65; lagoon_tips_1, 66; lagoon_tips_1, 67; lagoon_tips_1, 68; lagoon_tips_1, 69; lagoon_tips_1, 70; lagoon_tips_1, 71; lagoon_tips_1, 72
+   tip_pick_up: Pick up tips at lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [150, 150, 150, 150, 150, 150, 150, 150] from positions [lagoons, A11; lagoons, B11; lagoons, C11; lagoons, D11; lagoons, E11; lagoons, F11; lagoons, G11; lagoons, H11] with extra options {'liquidHeight': 10}
+-  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A6; rp_l_0, B6; rp_l_0, C6; rp_l_0, D6; rp_l_0, E6; rp_l_0, F6; rp_l_0, G6; rp_l_0, H6] with extra options {'liquidHeight': 10}
+?                                                                                               ^           ^           ^           ^           ^           ^           ^           ^
+
++  dispense: Dispense volumes [150, 150, 150, 150, 150, 150, 150, 150] into positions [rp_l_0, A12; rp_l_0, B12; rp_l_0, C12; rp_l_0, D12; rp_l_0, E12; rp_l_0, F12; rp_l_0, G12; rp_l_0, H12] with extra options {'liquidHeight': 10}
+?                                                                                               ^^           ^^           ^^           ^^           ^^           ^^           ^^           ^^
+
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+   tip_eject: Eject tips to lagoon_tips_1, 81; lagoon_tips_1, 82; lagoon_tips_1, 83; lagoon_tips_1, 84; lagoon_tips_1, 85; lagoon_tips_1, 86; lagoon_tips_1, 87; lagoon_tips_1, 88
+   tip_pick_up_96: Pick up tips at inducer_tips
+   aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   tip_eject_96: Eject tips to inducer_tips
+   tip_pick_up_96: Pick up tips at lagoon_tips_1
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   tip_eject_96: Eject tips to lagoon_tips_1
+   tip_pick_up_96: Pick up tips at lagoon_tips_2
+   aspirate_96: Aspirate volume 450 from holding_site
+-  dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 2, 'mixVolume': 300, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                       ^               ^                    ^
+
++  dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                       ^               ^                    ^
+
+   aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+-  dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 2, 'mixVolume': 300, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                 ^               ^
+
++  dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                 ^               ^
+
+   aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   tip_eject_96: Eject tips to lagoon_tips_2
+   tip_pick_up: Pick up tips at lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A1; holding_site, B1; holding_site, C1; holding_site, D1; holding_site, E1; holding_site, F1; holding_site, G1; holding_site, H1] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A1; bleach_site, B1; bleach_site, C1; bleach_site, D1; bleach_site, E1; bleach_site, F1; bleach_site, G1; bleach_site, H1]
+   tip_eject: Eject tips to lagoon_tips_3, 1; lagoon_tips_3, 2; lagoon_tips_3, 3; lagoon_tips_3, 4; lagoon_tips_3, 5; lagoon_tips_3, 6; lagoon_tips_3, 7; lagoon_tips_3, 8
+   tip_pick_up: Pick up tips at lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A3; holding_site, B3; holding_site, C3; holding_site, D3; holding_site, E3; holding_site, F3; holding_site, G3; holding_site, H3] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A3; bleach_site, B3; bleach_site, C3; bleach_site, D3; bleach_site, E3; bleach_site, F3; bleach_site, G3; bleach_site, H3]
+   tip_eject: Eject tips to lagoon_tips_3, 17; lagoon_tips_3, 18; lagoon_tips_3, 19; lagoon_tips_3, 20; lagoon_tips_3, 21; lagoon_tips_3, 22; lagoon_tips_3, 23; lagoon_tips_3, 24
+   tip_pick_up: Pick up tips at lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A5; holding_site, B5; holding_site, C5; holding_site, D5; holding_site, E5; holding_site, F5; holding_site, G5; holding_site, H5] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A5; bleach_site, B5; bleach_site, C5; bleach_site, D5; bleach_site, E5; bleach_site, F5; bleach_site, G5; bleach_site, H5]
+   tip_eject: Eject tips to lagoon_tips_3, 33; lagoon_tips_3, 34; lagoon_tips_3, 35; lagoon_tips_3, 36; lagoon_tips_3, 37; lagoon_tips_3, 38; lagoon_tips_3, 39; lagoon_tips_3, 40
+   tip_pick_up: Pick up tips at lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A7; holding_site, B7; holding_site, C7; holding_site, D7; holding_site, E7; holding_site, F7; holding_site, G7; holding_site, H7] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A7; bleach_site, B7; bleach_site, C7; bleach_site, D7; bleach_site, E7; bleach_site, F7; bleach_site, G7; bleach_site, H7]
+   tip_eject: Eject tips to lagoon_tips_3, 49; lagoon_tips_3, 50; lagoon_tips_3, 51; lagoon_tips_3, 52; lagoon_tips_3, 53; lagoon_tips_3, 54; lagoon_tips_3, 55; lagoon_tips_3, 56
+   tip_pick_up: Pick up tips at lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A9; holding_site, B9; holding_site, C9; holding_site, D9; holding_site, E9; holding_site, F9; holding_site, G9; holding_site, H9] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A9; bleach_site, B9; bleach_site, C9; bleach_site, D9; bleach_site, E9; bleach_site, F9; bleach_site, G9; bleach_site, H9]
+   tip_eject: Eject tips to lagoon_tips_3, 65; lagoon_tips_3, 66; lagoon_tips_3, 67; lagoon_tips_3, 68; lagoon_tips_3, 69; lagoon_tips_3, 70; lagoon_tips_3, 71; lagoon_tips_3, 72
+   tip_pick_up: Pick up tips at lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [waffle, A1; waffle, B1; waffle, C1; waffle, D1; waffle, E1; waffle, F1; waffle, G1; waffle, H1]
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [holding_site, A11; holding_site, B11; holding_site, C11; holding_site, D11; holding_site, E11; holding_site, F11; holding_site, G11; holding_site, H11] with extra options {'liquidHeight': 41}
+   aspirate: Aspirate volumes [350, 350, 350, 350, 350, 350, 350, 350] from positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96] with extra options {'liquidHeight': 5}
+   dispense: Dispense volumes [350, 350, 350, 350, 350, 350, 350, 350] into positions [ht_hw_96washdualchamber2_0001, 89; ht_hw_96washdualchamber2_0001, 90; ht_hw_96washdualchamber2_0001, 91; ht_hw_96washdualchamber2_0001, 92; ht_hw_96washdualchamber2_0001, 93; ht_hw_96washdualchamber2_0001, 94; ht_hw_96washdualchamber2_0001, 95; ht_hw_96washdualchamber2_0001, 96]
+   aspirate: Aspirate volumes [650, 650, 650, 650, 650, 650, 650, 650] from positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11] with extra options {'liquidHeight': 0}
+   dispense: Dispense volumes [650, 650, 650, 650, 650, 650, 650, 650] into positions [bleach_site, A11; bleach_site, B11; bleach_site, C11; bleach_site, D11; bleach_site, E11; bleach_site, F11; bleach_site, G11; bleach_site, H11]
+   tip_eject: Eject tips to lagoon_tips_3, 81; lagoon_tips_3, 82; lagoon_tips_3, 83; lagoon_tips_3, 84; lagoon_tips_3, 85; lagoon_tips_3, 86; lagoon_tips_3, 87; lagoon_tips_3, 88
+   tip_pick_up_96: Pick up tips at inducer_tips
+   aspirate_96: Aspirate volume 10 from inducer_site with extra options {'liquidHeight': 2, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 10 into inducer_wells with extra options {'liquidHeight': 30, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 125 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 125 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 130 from bleach_high with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 130 into bleach_high with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_0 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_0 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_1 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_1 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   aspirate_96: Aspirate volume 150 from water_high_2 with extra options {'liquidHeight': 15, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 150 into water_high_2 with extra options {'liquidHeight': 25, 'dispenseMode': 8, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'StandardVolumeFilter_Water_DispenseSurface_Empty'}
+   tip_eject_96: Eject tips to inducer_tips
+   tip_pick_up_96: Pick up tips at lagoon_tips_3
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   tip_eject_96: Eject tips to lagoon_tips_3
+   tip_pick_up_96: Pick up tips at lagoon_tips_0
+   aspirate_96: Aspirate volume 450 from holding_site
+-  dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 2, 'mixVolume': 300, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                       ^               ^                    ^
+
++  dispense_96: Dispense volume 450 into inducer_wells with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                       ^               ^                    ^
+
+   aspirate_96: Aspirate volume 450 from inducer_wells with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+-  dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 2, 'mixVolume': 300, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                 ^               ^
+
++  dispense_96: Dispense volume 450 into lagoons with extra options {'mixCycles': 3, 'mixVolume': 400, 'liquidHeight': 20, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+?                                                                                 ^               ^
+
+   aspirate_96: Aspirate volume 100 from lagoons with extra options {'liquidHeight': 50, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   aspirate_96: Aspirate volume 350 from lagoons with extra options {'liquidHeight': 23, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   dispense_96: Dispense volume 350 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 10, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseSurface_Empty', 'airTransportRetractDist': 0}
+   aspirate_96: Aspirate volume 100 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 15, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 600 from ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 600 into ht_hw_96washdualchamber2_0001 with extra options {'liquidHeight': 5, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 650 from bleach_site with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 650 into bleach_site with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 700 from ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 5, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 700 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_0 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_0 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_1 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_1 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   aspirate_96: Aspirate volume 750 from water_site_2 with extra options {'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 750 into water_site_2 with extra options {'liquidHeight': 30, 'dispenseMode': 8, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   dispense_96: Dispense volume 100 into ht_hw_96washdualchamber1_0001 with extra options {'liquidHeight': 15, 'dispenseMode': 9, 'liquidClass': 'HighVolumeFilter_Water_DispenseJet_Empty_with_transport_vol'}
+   tip_eject_96: Eject tips to lagoon_tips_0
+   tip_pick_up: Pick up tips at lagoon_tips_1, 1; lagoon_tips_1, 2; lagoon_tips_1, 3; lagoon_tips_1, 4; lagoon_tips_1, 5; lagoon_tips_1, 6; lagoon_tips_1, 7; lagoon_tips_1, 8
