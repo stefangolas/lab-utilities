@@ -7,7 +7,7 @@ Created on Mon Mar 20 22:53:13 2023
 from setuptools import setup, find_packages
 
 setup(
-    name='lab-utilities',
+    name='lab_utilities',
     version='0.5.0',
     packages=find_packages(),
     license='MIT',
