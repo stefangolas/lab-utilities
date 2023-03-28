@@ -14,7 +14,12 @@ setup(
     description='Lab Utilities',
     long_description='Nothing here yet',
     install_requires=[],
-    url='https://github.com/dgretton/pyhamilton.git',
+    url='https://github.com/stefangolas/lab_utilities.git',
     author='Stefan Golas',
     author_email='stefanmgolas@gmail.com',
+    entry_points={
+        'console_scripts': [
+            'set-lab-email = lab_utilities.email:set_email_env_variables'
+        ]
+    }
 )
