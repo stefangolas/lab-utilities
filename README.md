@@ -25,6 +25,10 @@ pump_int = configuration.load_class('pump', simulating = simulating)
 
 We can apply arguments such as `simulating` at run-time to create the interface. 
 
+### ExperimentalDataHandler
+
+The `ExperimentalDataHandler` class creates a unique directory for storing data (including logs, instrument data, and input parameters) from an experiment.
+
 ### email_error
 The function `email_error` very simply uses a gmail service to send emails from Python.
 
@@ -36,4 +40,6 @@ Then, apply the account information to these environment variables: `lab_utiliti
 email_addresses = ['example@123.com']
 email_error(recipients = email_addresses, subject = 'Robot Error', error='Exception Raised')
 ```
+
+
 
