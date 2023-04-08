@@ -33,6 +33,7 @@ To use this function you must create a gmail account with an App Password [accor
 Then, apply the account information to these environment variables: `lab_utilities_email` and `lab_utilities_email_password`.
 
 ```python
+email_addresses = ['example@123.com']
 email_error(recipients=email_addresses, subject = 'Robot Error', error='Exception Raised')
 ```
 
