@@ -16,7 +16,7 @@ Documentation for the different resources provided by this library
 
 ### ConfigLoader
 
-The `ConfigLoader` class creates equipment interfaces defined in config.json.
+The `ConfigLoader` class creates equipment interfaces defined in config.json. This enables a separation of distributed, version-controlled code from local equipment configurations.
 
 ```python
 configuration = ConfigLoader('config.json')
