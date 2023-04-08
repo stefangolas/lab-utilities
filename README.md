@@ -2,6 +2,8 @@
 Lab Utilities provides general-purpose code that can help with an automated lab
 
 ## Installation
+
+To install, run the following from the command line
 `git clone https://github.com/stefangolas/lab_utilities.git` </br>
 `cd lab_utilities` </br>
 `pip install -e .` </br>
