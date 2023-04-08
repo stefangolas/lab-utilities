@@ -18,7 +18,7 @@ Documentation for the importable resources provided by this library. All of thes
 
 The `ConfigLoader` class creates equipment interfaces defined in config.json. This enables a separation of distributed, version-controlled code from local equipment configurations.
 
-config.json
+**config.json**
 ```json
 {"equipment":
         "pump": {
