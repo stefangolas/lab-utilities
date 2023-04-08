@@ -34,6 +34,6 @@ Then, apply the account information to these environment variables: `lab_utiliti
 
 ```python
 email_addresses = ['example@123.com']
-email_error(recipients=email_addresses, subject = 'Robot Error', error='Exception Raised')
+email_error(recipients = email_addresses, subject = 'Robot Error', error='Exception Raised')
 ```
 
