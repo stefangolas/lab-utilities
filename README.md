@@ -26,7 +26,7 @@ We can apply arguments such as `simulating` at run-time to create the interface.
 ### email_error
 `email_error` provides a very simple function that uses a gmail service to send emails from Python.
 
-To use this function you must create a gmail account with an App Password according to this guide.
+To use this function you must create a gmail account with an App Password (according to this guide)[https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151]
 
 Then, apply the account information to these environment variables: `lab_utilities_email` and `lab_utilities_email_password`.
 
