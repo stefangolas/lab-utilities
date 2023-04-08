@@ -24,7 +24,7 @@ pump_int = configuration.load_class('pump', simulating = simulating)
 We can apply arguments such as `simulating` at run-time to create the interface. 
 
 ### email_error
-`email_error` provides a very simple function that uses a gmail service to send emails from Python.
+The function `email_error` very simply uses a gmail service to send emails from Python.
 
 To use this function you must create a gmail account with an App Password [according to this guide](https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151)
 
