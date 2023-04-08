@@ -12,7 +12,7 @@ Use `set-lab-email` to configure the built-in email service
 
 ## Resources
 
-Documentation for the different resources provided by this library
+Documentation for the importable resources provided by this library. All of these are available in the package namespace.
 
 ### ConfigLoader
 
