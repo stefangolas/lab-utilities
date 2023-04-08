@@ -18,6 +18,19 @@ Documentation for the importable resources provided by this library. All of thes
 
 The `ConfigLoader` class creates equipment interfaces defined in config.json. This enables a separation of distributed, version-controlled code from local equipment configurations.
 
+config.json
+```json
+{"equipment":
+        "pump": {
+            "type": "path",
+            "import": "C:\\Users\\user\\modular_lab\\equipment\\pumps\\agrow_pumps",
+            "class": "DualArray",
+            "args": {}
+         }
+ }
+
+```
+
 ```python
 configuration = ConfigLoader('config.json')
 pump_int = configuration.load_class('pump', simulating = simulating)
