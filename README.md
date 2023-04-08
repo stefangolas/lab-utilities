@@ -17,7 +17,7 @@ Documentation for the different resources provided by this library
 The `ConfigLoader` class creates equipment interfaces defined in config.json.
 
 ```python
-configuration = ConfigLoader(os.path.join(local_dir, 'config.json'))
+configuration = ConfigLoader('config.json')
 pump_int = configuration.load_class('pump', simulating = simulating)
 ```
 
