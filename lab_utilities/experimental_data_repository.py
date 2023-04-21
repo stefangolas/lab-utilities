@@ -71,7 +71,7 @@ class ExperimentalDataHandler:
         for prompt in prompts:
             parameter = input(prompt['prompt'] + ': ')
             if parameter:
-                experimental_params_dict.update({prompt['field']: parameter})
+                experimental_params_dict.update({prompt['field']: int(parameter)})
             else:
                 try:
                     experimental_params_dict.update({prompt['field']: prompt['default']})
@@ -121,3 +121,10 @@ class ExperimentalDataHandler:
     def get_experimental_params(self):
         return self.experimental_params
     
+    def write_json_to_dir(self, data, fn):
+        file_path = os.path.join(self.experiment_path, fn)
+        with open(file_path, 'w') as f:
+            # write the dictionary to the JSON file
+           json.dump(data, f)
+
+        

@@ -7,7 +7,6 @@ Created on Tue Mar 21 16:18:59 2023
 
 import smtplib
 from oauth2client.service_account import ServiceAccountCredentials
-import gspread
 import json
 import os
 import subprocess
