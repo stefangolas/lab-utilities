@@ -30,6 +30,7 @@ class ConfigLoader:
             return class_obj(**combined_args)
         elif entry['type'] == 'path':
             module_path = entry['import']
+            module_path = os.path.join((os.path.expanduser("~")), module_path)
             module_dir = os.path.dirname(module_path)  # extract directory containing module
             sys.path.append(module_dir)  # add directory to sys.path
             module_name = os.path.basename(module_path)

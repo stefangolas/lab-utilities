@@ -5,7 +5,6 @@ lab_utilities/__init__.py
 lab_utilities/email.py
 lab_utilities/equipment_config.py
 lab_utilities/experimental_data_repository.py
-lab_utilities/lab_git.py
 lab_utilities/make_directory.py
 lab_utilities/manifest_time_estimator.py
 lab_utilities/package_to_text.py

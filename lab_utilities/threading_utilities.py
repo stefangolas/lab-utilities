@@ -7,11 +7,12 @@ Created on Mon Mar 27 18:55:40 2023
 from threading import Thread
 
 class RaisingThread(Thread):
+
   def run(self):
     self._exc = None
     try:
       super().run()
-    except Exception as e:
+    except BaseException as e:
       self._exc = e
 
   def join(self, timeout=None):
